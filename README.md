@@ -1,4 +1,6 @@
 # gisc605-final
+andrea.perez03@student.csulb.edu
+
 GIS605 Lab 7/final exam
 1. Create a repository called gisc605-final in your GitHub account (make sure it is public)
 Please use the github/codespaces-jupyter repository as a template repository
